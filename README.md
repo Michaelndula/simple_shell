@@ -1,7 +1,7 @@
 # shellby - Simple Shell :shell:
 
 <p align="center">
-   <code><img height="60" src="https://miro.medium.com/max/1400/1*ASZ_4A1XGQ5Z9quQL-8wCQ.png"></code>
+   <code><img height="200" src="https://miro.medium.com/max/1400/1*ASZ_4A1XGQ5Z9quQL-8wCQ.png"></code>
 </p>
 
 A simple UNIX command interpreter written as part of the low-level programming and algorithm.
