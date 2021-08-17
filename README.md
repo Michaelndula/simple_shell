@@ -1,5 +1,7 @@
 # shellby - Simple Shell :shell:
 
+![Shell](https://miro.medium.com/max/1400/1*ASZ_4A1XGQ5Z9quQL-8wCQ.png)
+
 A simple UNIX command interpreter written as part of the low-level programming and algorithm.
 
 ## List of allowed functions and system calls
@@ -322,7 +324,7 @@ $
 
 ## License :lock:
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Michaelndula/simple_shell/blob/master/LICENCE) file for details.
 
 ## Acknowledgements :pray:
 
