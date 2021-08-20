@@ -322,7 +322,7 @@ $
 ## Authors :black_nib:
 
 * Michael Ndula <[Michaelndula](https://github.com/Michaelndula)>
-* Victor Kenneth <[]()>
+* Victor Kenneth <[Victor Kenneth](https://github.com/XXII-SE)>
 
 ## License :lock:
 
